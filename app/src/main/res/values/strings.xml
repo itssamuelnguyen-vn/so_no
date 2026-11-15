@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sổ Nợ</string>
+    <string name="widget_summary">Sổ nợ &amp; hụi</string>
+    <string name="widget_summary_description">Tiền phải thu, phải trả và việc sắp đến hạn</string>
+</resources>
